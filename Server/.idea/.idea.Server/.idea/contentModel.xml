@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\konto\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\konto\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\konto\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Server.-1081682852.00" t="ExcludeRecursive" />
+    <e p="D:\Projekty\CraftingTest\Server" t="IncludeRecursive">
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Controllers" t="Include">
+        <e p="FactoriesController.cs" t="Include" />
+      </e>
+      <e p="Helpers" t="Include">
+        <e p="Time.cs" t="Include" />
+      </e>
+      <e p="Hubs" t="Include">
+        <e p="FactoryHub.cs" t="Include" />
+      </e>
+      <e p="ItemDatabase.cs" t="Include" />
+      <e p="Managers" t="Include">
+        <e p="FactoryManager.cs" t="Include" />
+        <e p="IFactoryManager.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="CraftItem.cs" t="Include" />
+        <e p="CraftItemRequest.cs" t="Include" />
+        <e p="DTO" t="Include">
+          <e p="FactoryInfoDto.cs" t="Include" />
+        </e>
+        <e p="Factory.cs" t="Include" />
+        <e p="Intefaces" t="Include">
+          <e p="IInventoryItem.cs" t="Include" />
+          <e p="IItem.cs" t="Include" />
+        </e>
+        <e p="Inventory.cs" t="Include" />
+        <e p="InventoryItem.cs" t="Include" />
+        <e p="Item.cs" t="Include" />
+        <e p="NotificationType.cs" t="Include" />
+        <e p="Recipe.cs" t="Include" />
+        <e p="RecipeItem.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="Server.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="RecipesDatabase.cs" t="Include" />
+      <e p="Server.csproj" t="IncludeRecursive" />
+      <e p="Server.sln" t="IncludeFlat" />
+      <e p="Services" t="Include">
+        <e p="CraftingService.cs" t="Include" />
+        <e p="FactoryServices" t="Include">
+          <e p="FactoryCreateService.cs" t="Include" />
+          <e p="FactoryInventoryCreateService.cs" t="Include" />
+          <e p="IFactoryCreateService.cs" t="Include" />
+          <e p="IFactoryInventoryCreateService.cs" t="Include" />
+        </e>
+        <e p="ICraftingService.cs" t="Include" />
+        <e p="TimerService.cs" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+    </e>
+  </component>
+</project>
