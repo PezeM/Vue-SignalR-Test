@@ -351,3 +351,29 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+.DS_Store
+Client/node_modules
+Client/dist
+
+# local env files
+Client/.env.local
+Client/.env.*.local
+
+# Log files
+Client/npm-debug.log*
+Client/yarn-debug.log*
+Client/yarn-error.log*
+
+# Editor directories and files
+Client/.idea
+Client/.vscode
+Client/*.suo
+Client/*.ntvs*
+Client/*.njsproj
+Client/*.sln
+Client/*.sw?
+
+/.vs
+/.idea
+
